@@ -1,5 +1,5 @@
 {
-   "name": "anilistapi",
+   "name": "openFDA",
    "version": "1.0.0",
    "description": "manga/anime",
    "main": "server.js",
